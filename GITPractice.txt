@@ -6,3 +6,6 @@
 
 4. Last seen 
 
+5. Hide last seen
+
+6. hide profile
