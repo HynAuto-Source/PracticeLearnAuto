@@ -1,0 +1,8 @@
+1. Send Request
+
+2. Accept request 
+
+3. Decline Request 
+
+4. Last seen 
+
