@@ -15,3 +15,5 @@
 8. Enable Audio call option
 
 9. Enable Video call option
+
+10. Running train in whatsapp status
