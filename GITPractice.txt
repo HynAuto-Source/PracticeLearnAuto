@@ -11,3 +11,7 @@
 6. hide profile
 
 7. Block the user 
+
+8. Enable Audio call option
+
+9. Enable Video call option
