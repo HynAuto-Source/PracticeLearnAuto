@@ -9,3 +9,5 @@
 5. Hide last seen
 
 6. hide profile
+
+7. Block the user 
